@@ -6,8 +6,7 @@ module.exports = [
             {
                 product:{
                     id: 'resshoe'
-                },
-                quantity
+                }
             }
         ]
     }
